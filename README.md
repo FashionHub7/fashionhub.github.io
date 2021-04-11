@@ -65,7 +65,7 @@
           </div>
           <div class="flex">
             <span class="title-font font-medium text-2xl text-gray-900">Rs.1292</span>
-            <button class="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded"><a href="https://neilcr7bhutada.wixsite.com/fashionhub/product-page/nivia-football-shoes"> </a> <a href="https://neilcr7bhutada.wixsite.com/fashionhub/product-page/nivia-football-shoes">
+           <a href="https://neilcr7bhutada.wixsite.com/fashionhub/product-page/nivia-football-shoes"> </a> <a href="https://neilcr7bhutada.wixsite.com/fashionhub/product-page/nivia-football-shoes">
               <input type="button" value="Place order" class="flex ml-auto text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded">
            </a> </button>
             
